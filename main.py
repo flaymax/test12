@@ -18,7 +18,7 @@ class Solution:
                         k += 1
 
 
-print(Solution().twoSum([int(input()) for i in range(3)], 2))
+print(Solution().twoSum([int(input()) for i in range(3)], int(input())))
 print(np.exp(np.pi))
 
 
