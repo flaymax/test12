@@ -29,6 +29,7 @@ class sumi:
 
 print(Solution().twoSum([int(input()) for i in range(3)], int(input())))
 print(sumi().sum_factorial(9))
+print('успех')
 
 
 
